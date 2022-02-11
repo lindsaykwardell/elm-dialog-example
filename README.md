@@ -2,7 +2,7 @@
 
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod)](https://gitpod.io/#https://github.com/lindsaykwardell/elm-dialog-example)
 
-Example implementation of how to use the HTML5 `<dialog>` element in Elm.
+Example implementation of how to use the HTML5 `<dialog>` element in Elm. [See a live demo](https://elm-dialog-example.netlify.app/)!
 
 ## Get Started
 
